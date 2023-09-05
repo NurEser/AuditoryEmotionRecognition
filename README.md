@@ -1,8 +1,5 @@
 # AuditoryEmotionRecognition
 
-# Title
-
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
